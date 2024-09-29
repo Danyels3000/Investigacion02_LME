@@ -1,0 +1,26 @@
+.section1
+{
+    margin: 40px;
+}
+
+.header
+{
+    justify-content: center;
+}
+
+h2, h3 {
+    color: #0d6efd;
+}
+
+.investigation-section p {
+    text-align: justify;
+    line-height: 1.6;
+}
+
+.investigation-section h3 {
+    margin-top: 20px;
+}
+
+.investigation-section {
+    padding: 40px 0;
+}
